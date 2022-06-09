@@ -1,0 +1,94 @@
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\WinFormsEntityFrameWork.exe.config
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\WinFormsEntityFrameWork.exe
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\WinFormsEntityFrameWork.pdb
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\obj\Debug\WinFormsEntityFrameWork.csproj.AssemblyReference.cache
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\obj\Debug\WinFormsEntityFrameWork.Properties.Resources.resources
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\obj\Debug\WinFormsEntityFrameWork.csproj.GenerateResource.cache
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\obj\Debug\WinFormsEntityFrameWork.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\obj\Debug\WinFormsEntityFrameWork.exe
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\obj\Debug\WinFormsEntityFrameWork.pdb
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\EntityFramework.dll
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\Npgsql.dll
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\System.Buffers.dll
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\System.Memory.dll
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\System.Threading.Channels.dll
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\EntityFramework.xml
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\Npgsql.xml
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\System.Buffers.xml
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\System.Memory.xml
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\System.Threading.Channels.xml
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\obj\Debug\WinFormsEntityFrameWork.Form1.resources
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\Admin\RiderProjects\WinFormsEntityFrameWork\WinFormsEntityFrameWork\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\WinFormsEntityFrameWork.exe.config
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\WinFormsEntityFrameWork.exe
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\WinFormsEntityFrameWork.pdb
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\Npgsql.dll
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\System.Threading.Channels.dll
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\Npgsql.xml
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\System.Threading.Channels.xml
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\obj\Debug\WinFormsEntityFrameWork.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\obj\Debug\WinFormsEntityFrameWork.Form1.resources
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\obj\Debug\WinFormsEntityFrameWork.Properties.Resources.resources
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\obj\Debug\WinFormsEntityFrameWork.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\obj\Debug\WinFormsEntityFrameWork.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\obj\Debug\WinFormsEntityFrameWork.exe
+C:\Users\Admin\Desktop\никита вор\NewApulaz-master\WinFormsEntityFrameWork\obj\Debug\WinFormsEntityFrameWork.pdb
